@@ -1,0 +1,104 @@
+#######################################
+# Syntax Coloring Map for FrSkyR9MSportDecoder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+firstPart	KEYWORD1
+str	KEYWORD1
+ptr	KEYWORD1
+ret	KEYWORD1
+hexData	KEYWORD1
+num1	KEYWORD1
+num2	KEYWORD1
+num3	KEYWORD1
+num4	KEYWORD1
+decodedLat	KEYWORD1
+decodedLon	KEYWORD1
+decodedAltitude	KEYWORD1
+decodedCurrent	KEYWORD1
+decodedBattVolts	KEYWORD1
+decodedVSpeed	KEYWORD1
+decodedRssi	KEYWORD1
+decodedRxVolts	KEYWORD1
+decodedCellVolts	KEYWORD1
+decodedCog	KEYWORD1
+decodedGpsSpeed	KEYWORD1
+decodedGpsAltitude	KEYWORD1
+decodedDistanceToHome	KEYWORD1
+initialLat	KEYWORD1
+initialLon	KEYWORD1
+trackerLat		KEYWORD1
+trackerLon	KEYWORD1
+trackerBearing	KEYWORD1
+distanceToQuad	KEYWORD1
+bearingToQuad	KEYWORD1
+angularHeightToQuad	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+FrSkyR9MSportDecoder	KEYWORD2
+begin	KEYWORD2
+beginTest	KEYWORD2
+beginTracker	KEYWORD2
+displayDateTime	KEYWORD2
+displayAltitude	KEYWORD2
+displayCurrent	KEYWORD2
+displayBattVolts	KEYWORD2
+displayVertSpeed	KEYWORD2
+displayRssi	KEYWORD2
+displayRxBattVolts	KEYWORD2
+displayCellVolts	KEYWORD2
+displayGpsCog	KEYWORD2
+displayGpsSpeed	KEYWORD2
+displayGpsAltitude	KEYWORD2
+displayLatLon	KEYWORD2
+plainReadData	KEYWORD2
+void printLatLonData	KEYWORD2
+printGpsAltitude	KEYWORD2
+printGpsSpeed	KEYWORD2
+printGpsCog	KEYWORD2
+printCellVolts	KEYWORD2
+printRxBattVolts	KEYWORD2
+printRssi	KEYWORD2
+printVertSpeed	KEYWORD2
+printBattVolts	KEYWORD2
+printCurrent	KEYWORD2
+printAltitude	KEYWORD2
+printDateTime	KEYWORD2
+combineHex	KEYWORD2
+printHexData	KEYWORD2
+readRealTerm	KEYWORD2
+decodeLatLon	KEYWORD2
+decodeGpsAltitude	KEYWORD2
+decodeGpsSpeed	KEYWORD2
+decodeGpsCog	KEYWORD2
+decodeCellVolts	KEYWORD2
+decodeRxBattVolts	KEYWORD2
+decodeRssi	KEYWORD2
+decodeVertSpeed	KEYWORD2
+decodeBattVolts	KEYWORD2
+decodeCurrent	KEYWORD2
+decodeAltitude	KEYWORD2
+decodeDateTime	KEYWORD2
+resetDecodedData	KEYWORD2
+decodeDistanceToHome	KEYWORD2
+crcCheck	KEYWORD2
+getDistance	KEYWORD2
+getBearing	KEYWORD2
+getQuadLocation	KEYWORD2
+getAngularHeightToQuad	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BYTES_PER_FRAME	LITERAL1
+FRAMES_TO_READ	LITERAL1
+START_FRAME	LITERAL1
