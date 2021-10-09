@@ -9,3 +9,8 @@ The SportDecoderTest sketch is provided to test the tracker's operation before u
 Links to a detailed video and parts list available here
 
 Link to 3D printer files https://www.thingiverse.com/thing:4999823
+
+![tracker01](https://user-images.githubusercontent.com/13920701/136672814-b28054df-c4d4-4425-82c3-7b1e532ee1ee.jpg)
+
+
+
