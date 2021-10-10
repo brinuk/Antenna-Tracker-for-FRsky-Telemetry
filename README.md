@@ -6,7 +6,7 @@ The SportDecoder sketch demonstrates using the library for your own sketches.
 
 The SportDecoderTest sketch is provided to test the tracker's operation before using in the field.
 
-Links to a detailed construction video and parts list is available here
+Links to a detailed construction video and parts list is available here https://youtu.be/5j4F_u9Cuww
 
 Link to 3D printer files https://www.thingiverse.com/thing:4999823
 
